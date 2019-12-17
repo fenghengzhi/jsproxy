@@ -34,7 +34,7 @@ jsproxy_config({
     },
     // 该节点用于加载大体积的静态资源
     'cfworker': {
-      label: '',
+      label: 'cf节点',
       hidden: true,
       lines: {
         'super-shadow-536c.fenghengzhi.workers.dev': 1,
